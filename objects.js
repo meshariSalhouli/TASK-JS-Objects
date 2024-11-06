@@ -79,7 +79,6 @@ function updatePublishedYear(book, newYear) {
 
   return book;
 }
-
 /**
  * addSecondAuthor
  *
